@@ -13,3 +13,4 @@ def idcardcheck(id):
 # id = '101234567891234567'
 id = '11010119900307395X'
 print(idcardcheck(id))
+
